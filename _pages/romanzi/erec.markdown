@@ -476,7 +476,7 @@ B), *gamma* (V, A); ma questi raggruppamenti sono affetti dal fenomeno della
 Ecco lo [*stemma codicum*](https://www.treccani.it/vocabolario/stemma/ "stemma in Vocabolario Treccani"):
 {: style="text-align: justify;"}
 
-{% include figure image_path="/assets/images/stemma_erec.jpg" alt="this is a placeholder image" caption="Fig. - Lo *stemma codicum* dell'*Erec et Enide* (tratto da Micha 1966, p. 94); le linee tratteggiate indicano contaminazione." %}
+{% include figure image_path="/assets/images/stemma_erec.jpg" alt="Stemma codicum Erec et Enide" caption="Fig. - Lo *stemma codicum* dell'*Erec et Enide* (tratto da Micha 1966, p. 94); le linee tratteggiate indicano contaminazione." %}
 
 Tra i sette testimoni, **si segnala la [copia di Guiot](https://gallica.bnf.fr/ark:/12148/btv1b84272526/f15.item "Visualizza il manoscritto su Gallica")** (C), che, oltre
 a presentare una narrazione notevolmente coerente, è redatta in «un [franciano](https://www.treccani.it/vocabolario/franciano "franciano in Vocabolario Treccani")
