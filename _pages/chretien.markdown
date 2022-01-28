@@ -44,8 +44,8 @@ durante la seconda metà del XII secolo**, dall’altro non sappiamo nemmeno se
 patria. <br />
 Le poche informazioni note ci vengono fornite quasi esclusivamente dalle sue stesse opere. <br />
 **Si firma come *Crestïens de Troyes* unicamente nel prologo del suo primo romanzo**, 
-l’[*Erec et Enide*](/erec/ "Visita la pagina dedicata all'Erec et Enide"); successivamente, invece, compare soltanto il nome *Crestïens*. <br />
-Il [*Lancelot*](/lancelot/ "Visita la pagina dedicata al Lancelot") e il [*Perceval*](/perceval/ "Visita la pagina dedicata al Perceval"), altri romanzi da lui composti,
+l’[*Erec et Enide*](/progettochretien/erec/ "Visita la pagina dedicata all'Erec et Enide"); successivamente, invece, compare soltanto il nome *Crestïens*. <br />
+Il [*Lancelot*](/progettochretien/lancelot/ "Visita la pagina dedicata al Lancelot") e il [*Perceval*](/progettochretien/perceval/ "Visita la pagina dedicata al Perceval"), altri romanzi da lui composti,
 permettono di **collocarlo sotto l’egida di due importantissimi personaggi del
 tempo**: il primo sotto quella di **[Maria di Champagne](https://it.wikipedia.org/wiki/Maria_di_Francia_(1145-1198) "Maria di Champagne in Wikipedia")** 
 (1145-1198); il secondo sotto
@@ -87,13 +87,13 @@ Chrétien de Troyes, che scrive in [lingua d'*oil*](https://www.treccani.it/voca
 in [*couplets*](https://www.treccani.it/vocabolario/couplet "couplet in Vocabolario Treccani") di
 *octosyllabes* (verso in cui l'accento cade sull'ottava sillaba) a [rima baciata](https://www.treccani.it/enciclopedia/rima "rima in Enciclopedia Treccani"): 
 {: style="text-align: justify;"}
-- **[*Erec et Enide*](/erec/ "Visita la pagina dedicata all'Erec et Enide")** (ca. 1170); 
-- **[*Cligès*](/cliges/ "Visita la pagina dedicata al Cligès")** (ca. 1176);
-- **[*Yvain* o *Chevalier au lion*](/yvain/ "Visita la pagina dedicata all'Yvain")** («Cavaliere del leone», ca. 1177-1181);
-- **[*Lancelot* o *Chevalier de la charrette*](/lancelot/ "Visita la pagina dedicata al Lancelot")** («Cavaliere della carretta», ca. 1177-1181, ma probabilmente successivo all'[*Yvain*](/yvain/ "Visita la pagina dedicata all'Yvain")), completato da un certo 
+- **[*Erec et Enide*](/progettochretien/erec/ "Visita la pagina dedicata all'Erec et Enide")** (ca. 1170); 
+- **[*Cligès*](/progettochretien/cliges/ "Visita la pagina dedicata al Cligès")** (ca. 1176);
+- **[*Yvain* o *Chevalier au lion*](/progettochretien/yvain/ "Visita la pagina dedicata all'Yvain")** («Cavaliere del leone», ca. 1177-1181);
+- **[*Lancelot* o *Chevalier de la charrette*](/progettochretien/lancelot/ "Visita la pagina dedicata al Lancelot")** («Cavaliere della carretta», ca. 1177-1181, ma probabilmente successivo all'[*Yvain*](/progettochretien/yvain/ "Visita la pagina dedicata all'Yvain")), completato da un certo 
 Godefroi de Leigny (alcuni studiosi, tuttavia, ritengono che sia stato Chrétien a completare
 l’opera e che, di conseguenza, Godefroi de Leigny sia un nome fittizio dietro al quale si nasconderebbe il vero autore [cfr. Kelly 2006, p. 136]).
-- **[*Perceval* o *Conte du Graal*](/perceval/ "Visita la pagina dedicata al Perceval")** («Racconto del *Graal*», *post* 1181), rimasto incompiuto.
+- **[*Perceval* o *Conte du Graal*](/progettochretien/perceval/ "Visita la pagina dedicata al Perceval")** («Racconto del *Graal*», *post* 1181), rimasto incompiuto.
 {: style="text-align: justify;"}
 
 In ciascuno di essi **vengono narrate le vicende di un cavaliere della [Tavola Rotonda](https://www.treccani.it/enciclopedia/tavola-rotonda/ "Tavola Rotonda in Enciclopedia Treccani")**: vicende che non
@@ -108,12 +108,12 @@ Balestrero 2006, p. 12.
 {: .small}
 {: style="text-align: justify;"}
 
-**Ogni romanzo**, però, **offre uno specifico punto di vista**: se nell’[*Erec*](/erec/ "Visita la pagina dedicata all'Erec et Enide"), ad esempio, il protagonista si
+**Ogni romanzo**, però, **offre uno specifico punto di vista**: se nell’[*Erec*](/progettochretien/erec/ "Visita la pagina dedicata all'Erec et Enide"), ad esempio, il protagonista si
 dimentica dei suoi doveri da cavaliere a causa dell’eccessivo amore per la moglie,
-Yvain, nell’[omonimo romanzo](/yvain/ "Visita la pagina dedicata all'Yvain"), si dimentica della moglie a causa dei suoi doveri
+Yvain, nell’[omonimo romanzo](/progettochretien/yvain/ "Visita la pagina dedicata all'Yvain"), si dimentica della moglie a causa dei suoi doveri
 da cavaliere. <br />
 Contrapposizioni simili a questa, del resto, non mancano neanche
-all’interno di una stessa opera: basti pensare all’avventura conclusiva dell’[*Erec*](/erec/ "Visita la pagina dedicata all'Erec et Enide"), la cosiddetta
+all’interno di una stessa opera: basti pensare all’avventura conclusiva dell’[*Erec*](/progettochretien/erec/ "Visita la pagina dedicata all'Erec et Enide"), la cosiddetta
 *Gioia della Corte*, in cui l’amore perfetto e socialmente benefico fra Erec ed Enide si contrappone a quello egoistico fra Maboagrain e la sua dama. <br />
 **I cinque romanzi**, pertanto, **non veicolano un ideale rigido e unitario**: ognuno di essi
 costituisce un caso distinto e conseguentemente dev’essere giudicato secondo
@@ -142,10 +142,10 @@ e *Philomena*. <br />
  L’autore del *Guillaume* si firma come *Crestiiens*; ma l’opera si distacca sia nello
 stile sia nei contenuti dai romanzi di Chrétien (cfr. Frappier 1959, p. 159 e Poirion 1994 p. 1434). <br />
 *Philomena*, il cui autore si presenta come *Crestiiens li Goix*, potrebbe invece corrispondere all’opera
-che nel prologo del [*Cligès*](/cliges/ "Visita la pagina dedicata al Cligès") viene chiamata *La muance de la hupe, l’aronde et le rossignol* («La metamorfosi dell'upupa, della rondine e dell'usignolo», cfr.
+che nel prologo del [*Cligès*](/progettochretien/cliges/ "Visita la pagina dedicata al Cligès") viene chiamata *La muance de la hupe, l’aronde et le rossignol* («La metamorfosi dell'upupa, della rondine e dell'usignolo», cfr.
 Frappier 1959, p. 159); ma nessun elemento permette di accertare in maniera incontrovertibile
 questa ipotesi (vd. Poirion 1994, pp. 1391-1392). <br />
-Nel prologo del [*Cligès*](/cliges/ "Visita la pagina dedicata al Cligès"), inoltre, Chrétien
+Nel prologo del [*Cligès*](/progettochretien/cliges/ "Visita la pagina dedicata al Cligès"), inoltre, Chrétien
 rivendica la paternità di alcuni lavori che non sono giunti sino a noi (cfr. Frappier 1959, p. 159): 
 {: style="text-align: justify;"}
 - due traduzioni, *Les comandemanz Ovide* («I precetti d'Ovidio») e *L'art d'amors* («L'arte dell'amore»), la prima dei [*Remedia 
