@@ -16,7 +16,7 @@ toc_sticky: "true"
 ---
 
 Questa pagina è ancora in costruzione: pertanto, sono disponibili soltanto una versione ridotta della trama del romanzo e qualche indicazione bibliografica. <br />
-Si consiglia di visitare anche [la pagina generale dedicata a Chrétien de Troyes](/chretien/), in cui è contenuta una rapida panoramica delle opere dello scrittore.
+Si consiglia di visitare anche [la pagina generale dedicata a Chrétien de Troyes](/progettochretien/chretien/), in cui è contenuta una rapida panoramica delle opere dello scrittore.
 {: .notice--primary}
 {: style="text-align: center;"}
 
