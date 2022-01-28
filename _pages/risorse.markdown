@@ -14,7 +14,7 @@ toc_sticky: "true"
 
 ## Bibliografia *minima* consigliata
 
-Si raccomanda vivamente di visitare anche [ARLIMA](#arlima) e la sezione bibliografica delle [pagine dedicate ai romanzi di Chrétien de Troyes](/erec/ "Visita la pagina dedicata all'Erec et Enide").
+Si raccomanda vivamente di visitare anche [ARLIMA](#arlima) e la sezione bibliografica delle [pagine dedicate ai romanzi di Chrétien de Troyes](/progettochretien/erec/ "Visita la pagina dedicata all'Erec et Enide").
 {: .notice--primary}
 {: style="text-align: center;"}
 
@@ -40,12 +40,12 @@ Karl D. Uitti et Philippe Walter, Paris, Gallimard, 1994.
 
 
 ### Traduzioni in lingua italiana
-- [*Erec et Enide*](/erec/ "Visita la pagina dedicata all'Erec et Enide"): Chrétien de Troyes, *Erec e Enide*, traduzione e note di Cristina Noacco, introduzione
+- [*Erec et Enide*](/progettochretien/erec/ "Visita la pagina dedicata all'Erec et Enide"): Chrétien de Troyes, *Erec e Enide*, traduzione e note di Cristina Noacco, introduzione
 di Francesco Zambon, Roma, Carocci, 2003.
-- [*Cligès*](/cliges/ "Visita la pagina dedicata al Cligès"): Chrétien de Troyes, *Cligès*, a cura di Simonetta Bianchini, Roma, Carocci, 2012.
-- [*Yvain* o *Chevalier au lion*](/yvain/ "Visita la pagina dedicata all'Yvain"): Chrétien de Troyes, *Il cavaliere del leone*, a cura di Francesca Gambino, introduzione di Lucilla Spetia, Alessandria, Edizioni dell'Orso, 2011.
-- [*Lancelot* o *Chevalier de la charrette*](/lancelot/ "Visita la pagina dedicata al Lancelot"): Chrétien de Troyes, Godefroi de Leigni, *Il cavaliere della carretta (Lancillotto)*, a cura di Pietro G. Beltrami, Alessandria, Edizioni dell'Orso, 2004.
-- ﻿[*Perceval* o *Conte du Graal*](/perceval/ "Visita la pagina dedicata al Perceval"): *Il Graal. I testi che hanno fondato la leggenda*, a cura di Mariantonia Liborio; saggio introduttivo di Francesco Zambon; traduzioni e commenti di Adele 
+- [*Cligès*](/progettochretien/cliges/ "Visita la pagina dedicata al Cligès"): Chrétien de Troyes, *Cligès*, a cura di Simonetta Bianchini, Roma, Carocci, 2012.
+- [*Yvain* o *Chevalier au lion*](/progettochretien/yvain/ "Visita la pagina dedicata all'Yvain"): Chrétien de Troyes, *Il cavaliere del leone*, a cura di Francesca Gambino, introduzione di Lucilla Spetia, Alessandria, Edizioni dell'Orso, 2011.
+- [*Lancelot* o *Chevalier de la charrette*](/progettochretien/lancelot/ "Visita la pagina dedicata al Lancelot"): Chrétien de Troyes, Godefroi de Leigni, *Il cavaliere della carretta (Lancillotto)*, a cura di Pietro G. Beltrami, Alessandria, Edizioni dell'Orso, 2004.
+- ﻿[*Perceval* o *Conte du Graal*](/progettochretien/perceval/ "Visita la pagina dedicata al Perceval"): *Il Graal. I testi che hanno fondato la leggenda*, a cura di Mariantonia Liborio; saggio introduttivo di Francesco Zambon; traduzioni e commenti di Adele 
 Cipolla, Silvia De Laude, Marco Infurna, Mariantonia Liborio, Francesco Zambon, Milano, Mondadori, 2005, pp. 5-248.
 {: style="text-align: justify;"}
 
@@ -76,13 +76,13 @@ ARLIMA") è possibile trovare, tra le altre cose, una bibliografia in costante a
 Il [*Dictionnaire Électronique de Chrétien de Troyes*](http://zeus.atilf.fr/dect/ "Visita il sito del DÉCT") («Dizionario elettronico di Chrétien de Troyes», 
 DÉCT) è un dizionario (disponibile in francese e in inglese) dei cinque romanzi di Chrétien de Troyes; in realtà il DÉCT è ben
 più di questo: oltre a offrire la [trascrizione diplomatico-interpretativa](https://www.treccani.it/vocabolario/edizione/ "edizione in Vocabolario Treccani") 
-della [copia di Guiot](/erec/#la-tradizione-manoscritta "Visita la sezione dedicata alla tradizione manoscritta nella pagina dell'Erec et Enide"), questo potente strumento, grazie al suo [*database*](https://www.treccani.it/vocabolario/data-base/ "data base in 
+della [copia di Guiot](/progettochretien/erec/#la-tradizione-manoscritta "Visita la sezione dedicata alla tradizione manoscritta nella pagina dell'Erec et Enide"), questo potente strumento, grazie al suo [*database*](https://www.treccani.it/vocabolario/data-base/ "data base in 
 Vocabolario Treccani")
 testuale, permette di cercare - tra le altre cose - proverbi, locuzioni e [collocazioni](https://www.treccani.it/enciclopedia/collocazioni_(Enciclopedia-dell'Italiano)/#:~:text=In%20linguistica%2C%20il%20termine%20collocazione,di%20parole%20soggetta%20a%20una "collocazione in Enciclopedia dell'Italiano") all'interno dell'opera del grande scrittore francese. <br />
-Tuttavia, il DÉCT è limitato alla sola [copia di Guiot](/erec/#la-tradizione-manoscritta "Visita la sezione dedicata alla tradizione 
+Tuttavia, il DÉCT è limitato alla sola [copia di Guiot](/progettochretien/erec/#la-tradizione-manoscritta "Visita la sezione dedicata alla tradizione 
 manoscritta nella pagina dell'Erec et Enide"): pertanto, si consiglia di affiancarlo alla consultazione delle rispettive 
 edizioni critiche di Wendelin Foerster (per scaricarle gratuitamente basta seguire i collegamenti presenti nella sezione bibliografica delle [pagine dedicate 
-ai romanzi di Chrétien](/erec/ "Visita la pagina dedicata all'Erec et Enide")), che - pur essendo 
+ai romanzi di Chrétien](/progettochretien/erec/ "Visita la pagina dedicata all'Erec et Enide")), che - pur essendo 
 anch'esse limitate, se non altro per l'età - permettono di 
 allargare l'orizzonte a tutta 
 la tradizione manoscritta.
@@ -93,7 +93,7 @@ la tradizione manoscritta.
 [*The Princeton Charrette Project*](https://www.princeton.edu/~lancelot/ss/index.shtml "Visita il sito di The Princeton Charrette Project"), ideato da Karl D. 
 Uitti, è un «archivio elettronico complesso, scientifico e multimediale» (traduzione dalla [pagina 
 iniziale del sito](https://www.princeton.edu/~lancelot/ss/index.shtml "Visita il sito di The Princeton Charrette Project")) della tradizione manoscritta del 
-[*Lancelot* o *Chevalier de la charrette*](/lancelot/ "Visita la pagina dedicata al Lancelot"). <br />
+[*Lancelot* o *Chevalier de la charrette*](/progettochretien/lancelot/ "Visita la pagina dedicata al Lancelot"). <br />
 Il sito, aggiornato l'ultima volta nel 2007, sembra aver perso la maggior parte delle sue funzioni (i collegamenti che permettono di scaricari i materiali, 
 ad esempio, restituiscono una pagina d'errore); 
 tuttavia, è ancora possibile consultare [l'edizione critica del romanzo allestita da Alfred Foulet e Karl D. 
