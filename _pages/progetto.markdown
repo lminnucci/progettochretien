@@ -40,7 +40,7 @@ Infine, per evitare di creare penalizzazioni, le citazioni e i termini in una li
 
 Le pagine dedicate al [*Cligès*](/progettochretien/cliges/ "Visita la pagina dedicata al Cligès"), all'[*Yvain*](/progettochretien/yvain/ "Visita la pagina dedicata all'Yvain"), al [*Lancelot*](/progettochretien/lancelot/ "Visita la pagina dedicata al Lancelot") e al [*Perceval*](/progettochretien/perceval/ "Visita la pagina dedicata al Perceval")
 sono ancora in fase di costruzione: contengono soltanto una versione ridotta delle trame dei romanzi e una scarna bibliografia consigliata; per questo motivo, è necessario, innanzitutto, completarle. <br />
-Altri prospettive di sviluppo futuro sono le seguenti:
+Altre prospettive di sviluppo futuro sono le seguenti:
 {: style="text-align: justify;"}
 - creare delle pagine dedicate a tematiche più generali (ad es. il romanzo medievale, la letteratura arturiana, ecc.);
 - perfezionare le pagine già esistenti;
