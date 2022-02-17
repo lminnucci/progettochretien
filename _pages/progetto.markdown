@@ -6,19 +6,19 @@ classes: wide
 
 ## *Progetto Chrétien* in breve
 
-*Progetto Chrétien*, ideato e realizzato da Leonardo Minnucci, nasce all'interno del Corso integrato di informatica umanistica e filologia digitale ([Università degli Studi di Siena](https://www.unisi.it/ "Visita il sito dell'UniSi"), [Dipartimento di filologia e critica delle letterature antiche e moderne](https://www.dfclam.unisi.it/it "Visita il sito del DFCLAM")) tenuto nell'anno accademico 2020-2021 dalle professoresse [Emmanuela Carbé](https://www.dfclam.unisi.it/it/dipartimento/persone/docenti-contratto/carbe-emmanuela "Visita la pagina della prof.ssa Emmanuela Carbé") ed [Elisabetta Bartoli](https://www.dfclam.unisi.it/it/dipartimento/persone/docenti-ordinari-associati-ricercatori/bartoli-elisabetta "Visita la pagina della prof.ssa Bartoli").
+*Progetto Chrétien*, ideato e realizzato da Leonardo Minnucci, nasce all'interno del Corso integrato di informatica umanistica e filologia digitale ([Università degli Studi di Siena](https://www.unisi.it/ "Visita il sito dell'UniSi"), [Dipartimento di filologia e critica delle letterature antiche e moderne](https://www.dfclam.unisi.it/it "Visita il sito del DFCLAM")) tenuto nell'anno accademico 2020-2021 dalle professoresse [Emmanuela Carbé](https://www.dfclam.unisi.it/it/dipartimento/persone/docenti-contratto/carbe-emmanuela "Visita la pagina della prof.ssa Carbé") ed [Elisabetta Bartoli](https://www.dfclam.unisi.it/it/dipartimento/persone/docenti-ordinari-associati-ricercatori/bartoli-elisabetta "Visita la pagina della prof.ssa Bartoli").
 {: style="text-align: justify;"}
 Si tratta di un **sito statico**, creato tramite [Jekyll](https://jekyllrb.com/ "Visita il sito di Jekyll"), **interamente dedicato a Chrétien de Troyes**, scrittore francese attivo nella seconda metà del XII secolo. <br />
 **Alla base del progetto ci sono tre mancanze**:
 {: style="text-align: justify;"}
 1. quella di **saggi introduttivi** in lingua italiana sullo scrittore; 
 2. quella di **materiale didattico digitale** specifico in italiano;
-3. quella di un **sito che riunisca strumenti e risorse** utili disseminati per la rete. <br />
+3. quella di un **sito che riunisca strumenti e risorse** disseminati per la rete. <br />
 {: style="text-align: justify;"}
 
 Pertanto, senza la pretesa di esaurire la vastissima quantità di studi disponibili, *Progetto Chrétien* si pone da un lato l'obiettivo di 
 **offrire nozioni introduttive su Chrétien e la sua opera**, prestando particolare attenzione ai cinque romanzi arturiani, dall'altro quello di 
-**raccogliere sia una bibiografia minima sia risorse e strumenti digitali** necessari per poter intraprendere uno studio più approfondito.
+**raccogliere sia una bibiografia minima sia risorse e strumenti digitali** utili per poter intraprendere uno studio più approfondito.
 {: style="text-align: justify;"}
 
 
