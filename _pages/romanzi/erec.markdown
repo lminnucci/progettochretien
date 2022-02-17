@@ -420,8 +420,8 @@ Panvini 1986, p. 98.
 **Il testo dell’Erec et Enide è tramandato in maniera integrale da sette codici** (sigle tratte da [Foerster 1890](https://archive.org/details/smtlichewerken03chruoft "Leggi l'edizione Foerster su Internet Archive")):
 {: style="text-align: justify;"}
 
-L'identificazione dei manoscritti va sciolta nella seguente maniera: <br />
-sigla = città, sede, fondo + segnatura, ff.[ogli] + n. foglio+r[ecto]/v[erso]+colonna
+La segnatura dei manoscritti va sciolta nella seguente maniera: <br />
+sigla = città, sede, fondo + numero identificativo, ff.[ogli] + n. foglio+r[ecto]/v[erso]+colonna
 {: .notice--primary}
 {: style="text-align: center;"}
 
