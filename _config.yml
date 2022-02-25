@@ -25,7 +25,7 @@ url                      : "https://lminnucci.github.io"
 baseurl                  : "/progettochretien"
 repository               : "lminnucci/progettochretien"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.jpg"
+logo                     : # "/assets/images/logo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false
 words_per_minute         : 200
